@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none !important ;
+}
+.nav-link{
+    padding: 0 15px !important;
+}
+
+ .carousel-item{
+    background-position: center start;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 572px;
+   border-radius: 5px;
+} 
