@@ -10,10 +10,13 @@
 }
 
  .carousel-item{
-    background-position: center start;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     min-height: 572px;
    border-radius: 5px;
 } 
+.bg-gray{
+    background-color: #d8eaf1;
+}
