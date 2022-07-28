@@ -16,11 +16,30 @@
     width: 100%;
     min-height: 572px;
    border-radius: 5px;
+   /* background-image: linear-gradient(45deg,(red,black)); */
 } 
+.heading{
+    font-size: 55px;
+    line-height: 1.5;
+    font-weight: 700;
+}
 .bg-gray{
     background-color: #d8eaf1;
 }
 .join{
     height: 200px;
+    width: 100%;
+}
+.company-logo img{
+    height: auto;
+   max-width: 80%;
+}
+.address li{
+    list-style-type: none;
+}
+.foot{
+    background-color: black;
+    color: #d8eaf1;
+    height: 300px;
     width: 100%;
 }
