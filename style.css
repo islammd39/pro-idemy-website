@@ -39,14 +39,16 @@
     min-width: 200px;
     
 }
-
-.cd{
-    padding-left: -10px !important;
-}
-
+/* .gp{
+    margin-left: -12px !important;
+} */
 
 .bg-gray{
     background-color: #d8eaf1;
+}
+.ig{
+    min-height: 100%;
+    
 }
 
 
@@ -89,6 +91,11 @@
     margin-top: 1rem;
     color: #d8eaf1;
 }
+/* @media (max-width: 575px) {
+    .gp{
+        margin-left: 0px !important;
+    }
+} */
 
 @media screen and (max-width:1024px) {
    #companys{
