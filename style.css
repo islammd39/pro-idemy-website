@@ -48,13 +48,20 @@
 
 .company-logo img{
     height: auto;
-   max-width: 80%;
+   max-width: 50%;
 }
 
+.c-logo{
+    font-size: 2em;
+}
 
 .address li{
     list-style-type: none;
+    padding-top: 10px;
+
 }
+
+
 
 
 .foot{
