@@ -39,9 +39,6 @@
     min-width: 200px;
     
 }
-/* .gp{
-    margin-left: -12px !important;
-} */
 
 .bg-gray{
     background-color: #d8eaf1;
@@ -53,9 +50,10 @@
 
 
 .join{
-    height: 200px;
-    width: 100%;
+    min-height: 200px;
+    min-width: 100%;
     height: auto;
+    border-radius: 5px;
 }
 
 
@@ -91,11 +89,7 @@
     margin-top: 1rem;
     color: #d8eaf1;
 }
-/* @media (max-width: 575px) {
-    .gp{
-        margin-left: 0px !important;
-    }
-} */
+
 
 @media screen and (max-width:1024px) {
    #companys{
