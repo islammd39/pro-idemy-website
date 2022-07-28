@@ -40,6 +40,10 @@
     
 }
 
+.cd{
+    padding-left: -10px !important;
+}
+
 
 .bg-gray{
     background-color: #d8eaf1;
