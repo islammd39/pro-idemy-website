@@ -5,8 +5,15 @@
     font-family: 'Poppins', sans-serif;
     text-decoration: none !important ;
 }
+
+
 .nav-link{
     padding: 0 15px !important;
+}
+
+.logo{
+    color: #000000;
+    font-size: 2em;
 }
 
  .carousel-item{
@@ -16,29 +23,42 @@
     width: 100%;
     min-height: 572px;
    border-radius: 5px;
-   /* background-image: linear-gradient(45deg,(red,black)); */
 } 
+
+
+
 .heading{
     font-size: 55px;
     line-height: 1.5;
     font-weight: 700;
+    letter-spacing: 1px;
 }
+
+
 .bg-gray{
     background-color: #d8eaf1;
 }
+
+
 .join{
     height: 200px;
     width: 100%;
 }
+
+
 .company-logo img{
     height: auto;
    max-width: 80%;
 }
+
+
 .address li{
     list-style-type: none;
 }
+
+
 .foot{
-    background-color: black;
+    background-color: #000000;
     color: #d8eaf1;
     height: 300px;
     width: 100%;
