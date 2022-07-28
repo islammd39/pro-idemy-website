@@ -69,4 +69,10 @@
     color: #d8eaf1;
     height: 300px;
     width: 100%;
+} 
+
+.icon{
+    font-size: 28px;
+    margin-top: 1rem;
+    color: #d8eaf1;
 }
