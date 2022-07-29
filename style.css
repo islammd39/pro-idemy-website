@@ -1,55 +1,51 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    text-decoration: none !important ;
+    text-decoration: none !important;
 }
 
-.text-color{
+.text-color {
     color: #ff5400;
 }
 
-.nav-link{
+.nav-link {
     padding: 0 15px !important;
 }
 
-.logo{
+.logo {
     color: #000000;
     font-size: 2em;
 }
 
- .carousel-item{
+.carousel-item {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     min-height: 572px;
-   border-radius: 5px;
-} 
+    border-radius: 5px;
+}
 
 
-
-.heading{
+.heading {
     font-size: 55px;
     line-height: 1.5;
     font-weight: 700;
     letter-spacing: 1px;
     max-height: 100%;
     min-width: 200px;
-    
+
 }
 
-.bg-gray{
+.bg-gray {
     background-color: #d8eaf1;
 }
-.ig{
-    min-height: 100%;
-    
-}
 
 
-.join{
+
+.join {
     min-height: 200px;
     min-width: 100%;
     height: auto;
@@ -57,43 +53,34 @@
 }
 
 
-.company-logo img{
+.company-logo img {
     height: auto;
-   max-width: 50%;
+    max-width: 50%;
 }
 
-.c-logo{
+.c-logo {
     font-size: 2em;
 }
 
-.address li{
+.address li {
     list-style-type: none;
     padding-top: 10px;
 
 }
 
-
-
-
-.foot{
+.foot {
     background-color: #000000;
     color: #d8eaf1;
     height: 300px;
     width: 100%;
-} 
-.btn{
+}
+
+.btn {
     display: inline-block;
 }
-.icon{
+
+.icon {
     font-size: 28px;
     margin-top: 1rem;
     color: #d8eaf1;
-}
-
-
-@media screen and (max-width:1024px) {
-   #companys{
-    display: none;
-   }
-    
 }
